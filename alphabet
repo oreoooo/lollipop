@@ -1,0 +1,5 @@
+char=input("enter the vaue")
+if (char>='a' and char<='z' )or (char>='A' and char<='Z'):
+       print ("the given character is alphabet")
+else:
+       print("the given character is not a alphabet")
